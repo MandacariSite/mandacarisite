@@ -3143,7 +3143,6 @@ ul {
   position: relative;
   display: block;
   overflow: hidden;
-  background-color: var(--aspro-black);
   z-index: 1;
 }
 
